@@ -1,3 +1,4 @@
 git remote -v (change origin)
 git push origin new_branch (push updates to the new branch in server)
-git tag
+git tag tag_name (create new tag)
+git tag (show tag list)
